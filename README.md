@@ -27,3 +27,5 @@ This project is a **console-based Hospital Management System** developed in **C+
 ## 📷 Preview
 
 You can add screenshots of the application here after running the program.
+
+![Main Menu](images/menu.png)
