@@ -24,8 +24,6 @@ This project is a **console-based Hospital Management System** developed in **C+
 2. Open the `main.cpp` file in any C++ IDE or compiler (such as Dev-C++, Code::Blocks, Visual Studio, or VS Code).
 3. Build and run the project.
 
-## 📷 Preview
 
-You can add screenshots of the application here after running the program.
 
 
